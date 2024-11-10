@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393653312236",
+    "project_id": "fir-ml-predictor",
+    "storage_bucket": "fir-ml-predictor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393653312236:android:49a3d42ede23c44f0a63c9",
+        "android_client_info": {
+          "package_name": "com.dicoding.latihantensorflowliteprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dGSQMKzur_DZrWs-B5wlFfvEa49oHc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
